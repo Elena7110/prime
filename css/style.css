@@ -962,7 +962,7 @@ header {
   .header-bottom {
     position: absolute;
     left: 37%;
-    top: 125px;
+    top: 100px;
   }
 
   .header__menu {
