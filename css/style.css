@@ -956,13 +956,13 @@ header {
   .header-top__medium {
     position: absolute;
     left: 45%;
-    top: 8%;
+    top: 6%;
   }
 
   .header-bottom {
     position: absolute;
     left: 37%;
-    top: 10px;
+    top: 50px;
   }
 
   .header__menu {
